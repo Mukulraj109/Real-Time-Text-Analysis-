@@ -41,36 +41,26 @@ Follow these steps to run the project locally.
 The app should now be running at http://localhost:3000/.
 
 3. **Usage section:**
-echo "## Usage" >> README.md
-echo "" >> README.md
-echo "- Type or paste your text into the provided text area." >> README.md
-echo "- The app will automatically display the unique word count and character count (excluding spaces)." >> README.md
-echo "- Use the \"Find\" and \"Replace with\" fields to specify a string to find and a replacement string." >> README.md
-echo "- Click the \"Replace All\" button to replace all instances of the string in the text." >> README.md
-echo "- The replaced text will be highlighted, and a notification will appear for confirmation." >> README.md
-echo "- Use the \"Clear\" button to reset the input fields." >> README.md
-echo "" >> README.md
+Type or paste your text into the provided text area.
+The app will automatically display the unique word count and character count (excluding spaces).
+Use the "Find" and "Replace with" fields to specify a string to find and a replacement string.
+Click the "Replace All" button to replace all instances of the string in the text.
+The replaced text will be highlighted, and a notification will appear for confirmation.
+Use the "Clear" button to reset the input fields.
 
 4. **Bonus Features section:**
-echo "## Bonus Features" >> README.md
-echo "" >> README.md
-echo "- **Toast Notifications**: Added using react-toastify. Notifications appear for actions like successful string replacement and error handling (e.g., trying to replace an empty string)." >> README.md
-echo "" >> README.md
+Toast Notifications: Added using react-toastify. Notifications appear for actions like successful string replacement and error handling (e.g., trying to replace an empty string).
+
 
  5. **Available Scripts section:**
-echo "## Available Scripts" >> README.md
-echo "" >> README.md
-echo "- \`npm start\`: Starts the development server." >> README.md
-echo "- \`npm run build\`: Builds the app for production." >> README.md
-echo "" >> README.md
+npm start: Starts the development server.
+npm run build: Builds the app for production.
 
 6. **Technologies Used section:** 
-echo "## Technologies Used" >> README.md
-echo "" >> README.md
-echo "- **React**: Frontend framework." >> README.md
-echo "- **React Toastify**: For notifications." >> README.md
-echo "- **CSS**: For styling components." >> README.md
-echo "- **JavaScript (ES6+)**: For application logic." >> README.md
+React: Frontend framework.
+React Toastify: For notifications.
+CSS: For styling components.
+JavaScript (ES6+): For application logic.
 
 
 # License

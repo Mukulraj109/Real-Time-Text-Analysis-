@@ -2,6 +2,10 @@
 
 This is a React-based web application for real-time text analysis and string replacement. It includes features like word and character counting, string replacement, and highlighting replaced text. Additionally, it supports real-time notifications using `react-toastify`.
 
+## Live Demo
+
+Check out the live demo of the app here: [Real-Time Text Analysis and String Replacement](https://realtime-text-analysis.netlify.app/)
+
 ## Features
 
 - **Real-Time Text Analysis:** Automatically counts the number of unique words and characters excluding spaces and punctuation.

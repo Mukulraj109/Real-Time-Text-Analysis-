@@ -26,7 +26,7 @@ Follow these steps to run the project locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mukulraj109/text-analysis-replacement-app.git
+   git clone https://github.com/Mukulraj109/Real-Time-Text-Analysis-.git
    cd text-analysis-replacement-app
 
 2. **Install dependencies:**
